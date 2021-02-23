@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a full stack web developer. I use JavaScript/TypeScript for both frontend and backend development. ReactJS is the framework I use to build UI. 
-Twitter- https://twitter.com/ShadmanShakib_
+I'm a forntend web developer. I use JavaScript/TypeScript for both frontend and backend development. ReactJS is the framework I use to build UI. 
+

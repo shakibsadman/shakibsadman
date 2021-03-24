@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a forntend web developer. I use JavaScript/TypeScript for both frontend and backend development. ReactJS is the framework I use to build UI. 
+I'm a front-end web developer. My area's of expertise are React, Redux, Git, Tailwindcss etc.
 

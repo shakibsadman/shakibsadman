@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+### My name is Shadman Shkib
+#### Front-end developer
 <!--
 **ShadmanShakib/ShadmanShakib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a front-end web developer. My area's of expertise are React, Redux, Git, Tailwindcss etc.
+### Technical Skills
+- TypeScript
+- React
+- Tailwind CSS
+- Redux
+- GIT
 

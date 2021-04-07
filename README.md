@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ### Technical Skills
 - TypeScript
 - React
+- Next JS
 - Tailwind CSS
 - Redux
 - GIT

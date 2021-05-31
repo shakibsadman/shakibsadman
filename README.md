@@ -4,18 +4,14 @@
 
 
 ### Technical Skills
-- TypeScript
-- React
-- React Native
-- React hooks
-- Next JS
-- JamStack
+- TypeScript/JavaScript/Node JS
+- React/React Native/Redux/React Hooks
+- Expo Cli
+- Next JS/ SSR /JamStack
 - Severless apps
 - Firebase
 - Strapi
-- Tailwind CSS
-- Chakra UI
-- Redux
+- Tailwind CSS/Chakra UI
 - GIT
 
 

@@ -8,6 +8,7 @@
 - React/React Native/Redux/React Hooks
 - Expo Cli
 - Next JS/ SSR /JamStack
+- Rest API
 - Severless apps
 - Firebase
 - Strapi

@@ -2,10 +2,10 @@
 ### My name is Shadman Shkib
 #### React/React Native, Firebase Developer
 
-
 ### Technical Skills
-- TypeScript/JavaScript/Node JS
-- React/React Native/Redux/React Hooks
+- TypeScript/JavaScript
+- React/React Native
+- Redux/React Hooks
 - Expo Cli
 - Next JS/ SSR /JamStack
 - Rest API
@@ -14,5 +14,6 @@
 - Strapi
 - Tailwind CSS/Chakra UI
 - GIT
+- Node JS
 
 

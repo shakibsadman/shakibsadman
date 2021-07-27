@@ -6,7 +6,7 @@
 - TypeScript/JavaScript
 - React/React Native
 - Redux/React Hooks
-- Expo Cli
+- Expo Cli + Firebase app
 - Next JS/ SSR /JamStack
 - Rest API
 - Severless apps
@@ -15,5 +15,6 @@
 - Tailwind CSS/Chakra UI
 - GIT
 - Node JS
+- Mongo DB
 
 

@@ -1,5 +1,5 @@
 ### Hi there 👋
-### My name is Shadman Shkib
+### My name is Shadman Shakib
 #### React/React Native, Firebase Developer
 
 ### Technical Skills

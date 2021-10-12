@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### My name is Shadman Shakib
-#### React/React Native, Firebase Developer
+#### React/React Native, MERN Developer
 
 ### Skills
 1. App development(React Native)
@@ -23,5 +23,3 @@
 - Node JS
 - Mongo DB
 - Native Base UI
-
-

@@ -1,12 +1,12 @@
 ### Hi there 👋
 ### My name is Shadman Shakib
-#### React/React Native, MERN Developer
+#### TypeScript, Full Stack(MERN), React Native Developer
 
 ### Skills
 1. App development(React Native)
 2. Frontend Development (React/Redux/Tailwind CSS)
-3. Firebase Backend integration 
-4. API Integration 
+3. E-commerce development (NextJS/JamStack/Severless/Shopify/woo-commerce)
+4. Backend Development (Nest JS/ Node Js)
 
 ### Technical Skills
 - TypeScript/JavaScript

@@ -19,6 +19,8 @@ I am Shadman Shakib, currently. I love to build things for fun.
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadmanshakib&theme=tokyonight)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shadmanshakib&show_icons=true&theme=tokyonight)
 
 

@@ -18,6 +18,10 @@ I am Shadman Shakib, currently. I love to build things for fun.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
+### Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shadmanshakib&show_icons=true&theme=tokyonight)
+
+
 ### Contact with me
 [<img src="https://user-images.githubusercontent.com/39955420/147572655-e5feabb1-2a36-467c-9906-1fc66d606b41.png" height="48" width="48">](https://www.linkedin.com/in/Shadmanshakib-bd/) 
 [<img src="https://user-images.githubusercontent.com/39955420/147572505-a0f98499-2d13-4149-a68a-a66f7ebe0e23.png" height="48" width="48">](https://twitter.com/shadmanshakib_) 

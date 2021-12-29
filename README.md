@@ -10,16 +10,8 @@
 
 ### Technical Skills
 - TypeScript/JavaScript
-- React/React Native
+- React/React Native/Next JS
 - Redux/React Hooks/Redux toolkit
-- Expo Cli + Firebase app
-- Next JS/ SSR /JamStack
-- Rest API
-- Severless apps
-- Firebase
-- Strapi
 - Tailwind CSS/Chakra UI
-- GIT
-- Node JS
-- Mongo DB
-- Native Base UI
+- Node JS (Nest JS)
+- Mongo DB (NoSQL)

@@ -4,6 +4,7 @@
 I am Shadman Shakib, currently. I love to build things for fun.   
 ⚡ Fun fact: I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains.   
 💬 Ask me anything, I will be more than happy to help :D
+![](https://visitor-badge.laobi.icu/badge?page_id=shadmanshakib)
 
 ### Skills
 1. App development(React Native)

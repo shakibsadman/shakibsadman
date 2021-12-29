@@ -8,10 +8,5 @@
 3. E-commerce development (NextJS/JamStack/Severless/Shopify/woo-commerce)
 4. Backend Development (Nest JS/ Node Js)
 
-### Technical Skills
-- TypeScript/JavaScript
-- React/React Native/Next JS
-- Redux/React Hooks/Redux toolkit
-- Tailwind CSS/Chakra UI
-- Node JS (Nest JS)
-- Mongo DB (NoSQL)
+### Languages
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)

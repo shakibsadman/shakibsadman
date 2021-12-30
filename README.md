@@ -21,7 +21,7 @@ I am Shadman Shakib, currently. I love to build things for fun.
 ### Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadmanshakib&theme=tokyonight)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shadmanshakib&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shadmanshakib&show_icons=true&theme=onedark)
 
 
 ### Contact with me

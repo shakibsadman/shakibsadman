@@ -18,16 +18,20 @@ I am Shadman Shakib, currently. I love to build things for fun.
 
 
 ### Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadmanshakib&theme=tokyonight)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shadmanshakib&show_icons=true&theme=onedark)
+<p justify="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadmanshakib&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=shadmanshakib&show_icons=true&theme=onedark" />
+</p>
 <p align="center">
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shadmanshakib&theme=highcontrast&hide_border=true" alt="#your-username" />
 </p>
 
 ### Contact with me
-[<img src="https://user-images.githubusercontent.com/39955420/147572655-e5feabb1-2a36-467c-9906-1fc66d606b41.png" height="48" width="48">](https://www.linkedin.com/in/Shadmanshakib-bd/) 
-[<img src="https://user-images.githubusercontent.com/39955420/147572505-a0f98499-2d13-4149-a68a-a66f7ebe0e23.png" height="48" width="48">](https://twitter.com/shadmanshakib_) 
-[<img src="https://user-images.githubusercontent.com/39955420/147611479-36ad6cd0-3b53-4d46-8035-0bd940e01a57.png" height="48" width="48">](mailto:sm.shakib007@gmail.com)
+<p align="left">  
+<a href="https://twitter.com/shadmanshakib_" target="blank"><img src="https://img.icons8.com/color/35/000000/twitter--v2.png"/></a>
+<a href="https://linkedin.com/in/shadmanshakib007" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
+<a href="https://www.youtube.com/channel/UCzK0N1yGkd0IH95x3zQ1FcQ" target="blank"><img src="https://img.icons8.com/color/35/000000/youtube-play.png"/></a>
+
+</p>
 
 

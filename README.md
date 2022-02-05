@@ -6,8 +6,6 @@ I am Shadman Shakib, currently. I love to build things for fun.
 💬 Ask me anything, I will be more than happy to help :D
 ![](https://visitor-badge.laobi.icu/badge?page_id=shadmanshakib)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=#shadmanshakib&theme=dracula&hide_border=true)
-
 
 ### Languages
 
@@ -15,11 +13,19 @@ I am Shadman Shakib, currently. I love to build things for fun.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shadmanshakib&theme=dracula&hide_border=true)
+
+
+
 ### Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadmanshakib&theme=tokyonight)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shadmanshakib&show_icons=true&theme=onedark)
-
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadmanshakib&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="#your-username" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=shadmanshakib&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="#your-username" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shadmanshakib&theme=highcontrast&hide_border=true" alt="#your-username" />
+</p>
 
 ### Contact with me
 [<img src="https://user-images.githubusercontent.com/39955420/147572655-e5feabb1-2a36-467c-9906-1fc66d606b41.png" height="48" width="48">](https://www.linkedin.com/in/Shadmanshakib-bd/) 

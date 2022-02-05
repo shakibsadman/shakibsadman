@@ -6,6 +6,7 @@ I am Shadman Shakib, currently. I love to build things for fun.
 💬 Ask me anything, I will be more than happy to help :D
 ![](https://visitor-badge.laobi.icu/badge?page_id=shadmanshakib)
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=#shadmanshakib&theme=dracula&hide_border=true)
 
 
 ### Languages

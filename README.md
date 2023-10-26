@@ -36,7 +36,7 @@ I am Shadman Shakib, currently. I love to build things for fun.
 
 ### Contact with me
 <p align="left">  
-<a href="https://twitter.com/shadmanshakib_" target="blank"><img src="https://img.icons8.com/color/35/000000/twitter--v2.png"/></a>
+<a href="https://twitter.com/xshadmanshakib" target="blank"><img src="https://img.icons8.com/color/35/000000/twitter--v2.png"/></a>
 <a href="https://linkedin.com/in/shadmanshakib007" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
 <a href="https://www.youtube.com/channel/UCzK0N1yGkd0IH95x3zQ1FcQ" target="blank"><img src="https://img.icons8.com/color/35/000000/youtube-play.png"/></a>
 

@@ -1,4 +1,4 @@
-<h2 align="center">MERN STACT DEVELOPER <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
+<h2 align="center">NEXT.JS FULL STACT DEVELOPER <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
 <h2>About me</h2>
 
 I am Shadman Shakib, currently. I love to build things for fun.   

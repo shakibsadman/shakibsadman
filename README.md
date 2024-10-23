@@ -19,9 +19,6 @@ I am Shadman Shakib, currently. I love to build things for fun.
      <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,java,nextjs,mysql" /><br>
 </div>
 
-<div align="center">
-<img  src="https://raw.githubusercontent.com/shadmanshakib/shadmanshakib/output/github-contribution-grid-snake.svg" alt="contribution graph" />
-</div>
 
 
 

@@ -16,7 +16,7 @@ I am Shadman Shakib, currently. I love to build things for fun.
 
 ### 🧩 Libraries & Framework
 <div align="center">
-     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,java,nextjs,mysql" /><br>
+     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,nextjs,mysql" /><br>
 </div>
 
 
